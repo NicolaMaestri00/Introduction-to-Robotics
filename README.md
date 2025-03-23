@@ -1,8 +1,8 @@
 # Introduction to Robotics
 
-## Final Assignment: *Automated Microphone Delivery with a Giraffe Robot*
+## Final Assignment: *Automated Microphone Delivery with a Robotic Arm*
 
-In this project, we design a giraffe robot to automate microphone delivery in a small conference room. Mounted at the center of a $4$‑meter-high ceiling, the robot covers a $5 \times 12$‑meter area and targets a $5 \times 5$‑meter region with a fixed $30^\circ$ pitch for comfortable speaking.
+In this project, we design a robotic arm to automate microphone delivery in a small conference room. Mounted at the center of a $4$‑meter-high ceiling, the robot covers a $5 \times 12$‑meter area and targets a $5 \times 5$‑meter region with a fixed $30^\circ$ pitch for comfortable speaking.
 
 Key design features include $5$ degrees of freedom:
 - *Spherical base joint* (2 intersecting revolute joints)
